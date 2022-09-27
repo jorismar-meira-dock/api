@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: tech.dock.capana.mt.tenant
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, aws-v2-sdk, dynamodb, http-client, java, java-application, junit, maven, netty-server, readme, redis-lettuce, security-annotations, security-jwt, serialization-jackson, shade, slf4j-simple, testcontainers, yaml]
